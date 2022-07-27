@@ -9,7 +9,7 @@ section{
     color: rgb(233, 242, 242);
     text-align: center;
     background-color: black;
-    /* margin-bottom: 30%; */
+
 }
 
 .section2{
@@ -32,11 +32,31 @@ body{
     overflow: hidden;
 }
 
+
+fieldset{
+    margin: 20px;
+    padding: 10px;
+    position:fixed;
+    text-decoration-color: black;
+    text-align: center;
+    font-size: larger;
+    background-color: black;
+    border-radius: 7px;
+}
+
 p{
     color: aliceblue;
 }
-
+form{
+    
+}
 footer{
-    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: rgb(242, 210, 210);
+    text-align: center;
 }
 
