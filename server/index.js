@@ -5,7 +5,7 @@ const exp = require('constants');
 
 const app = express();
 
-app.get('/', function(res, req){
+app.get('/', function(req, res){
     res.sendFile(path.join(__dirname, '../index.html'));
 });
 
