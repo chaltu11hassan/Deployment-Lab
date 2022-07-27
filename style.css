@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+section{
+    color: rgb(233, 242, 242);
+    text-align: center;
+    background-color: black;
+    /* margin-bottom: 30%; */
+}
+
+.section2{
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+}
+
+button{
+
+    color: rgb(0, 4, 7);
+    border-radius: 3px;
+    text-size-adjust: 5px;
+}
+
+body{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/010/163/877/large/george-garton-junglerender4.jpg?1522911055);
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+p{
+    color: aliceblue;
+}
+
